@@ -1,0 +1,1 @@
+merge branches to main - git merge  <branch-name-alias>  -----------------   git merge master
