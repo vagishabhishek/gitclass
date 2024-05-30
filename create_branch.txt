@@ -1,5 +1,5 @@
 git branch -M master #create a branch
-switch to new branch - git switch master or git switch master
+switch to new branch - git switch master or git checkout master
 # add remote url for new branch -  git remote add branch-origin https://github.com/vagishabhishek/gitclass.git- here new alias is branch-origin
 git add .   
 git commit -m "message"
@@ -8,3 +8,4 @@ git push branch-origin master
 #check all present aliases - git remote -v
 
 #check all branches  --- git branch
+
