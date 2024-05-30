@@ -6,3 +6,5 @@ git commit -m "message"
 git push branch-origin master
 
 #check all present aliases - git remote -v
+
+#check all branches  --- git branch
