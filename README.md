@@ -1,1 +1,1 @@
-#This is my git class#
+This is a sample repo for learning git
